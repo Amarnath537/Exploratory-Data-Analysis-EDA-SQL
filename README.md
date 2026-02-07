@@ -4,6 +4,7 @@
 This project focuses on performing Exploratory Data Analysis (EDA) using **MySQL** on a data warehouse.
 
 The goal is to understand business performance, customer behaviour, product trends, and revenue distribution by answering real-world business questions using SQL queries.
+
 ---
 
 ## Tools Used
